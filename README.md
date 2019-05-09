@@ -1,7 +1,9 @@
 # JavaScript Crash Course Template
-This is a template for JavaScrip Basic, all the stuff is from FreeCodeCamp
+This is a template for JavaScript Basic, all the stuff is from FreeCodeCamp
 
 # What I learned
+Bellow is the detail that what I learn during this crash course
+
 ## Basic Javascript
 1. Quoting Strings with Single Quotes
 2. Escape Sequences in Strings
