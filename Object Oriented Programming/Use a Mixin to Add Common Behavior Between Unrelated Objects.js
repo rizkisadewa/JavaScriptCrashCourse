@@ -60,5 +60,5 @@ Create a mixin named glideMixin that defines a method named glide. Then use the 
 
 1. Your code should declare a glideMixin variable that is a function.
 2. Your code should use the glideMixin on the bird object to give it the glide method.
-3. Your code should use the glideMixin on the boat object to give it the glide method.
+3.  Your code should use the glideMixin on the boat object to give it the glide method.
 */
